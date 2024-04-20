@@ -3,4 +3,4 @@ let accountEmail="pawanverm=@gmail.com"
 var accountPassword ="012524"
 accountCity= "sehore"
 let accountState;
-console.log([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.log([accountId,accountEmail,accountPassword,accountCity,accountState]);
