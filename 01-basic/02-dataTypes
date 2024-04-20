@@ -1,0 +1,14 @@
+"use strict"// treat all js code as newer version
+let name="pawan";
+let age=20;
+let isloggedIn= fase;
+/* number
+   BigInt
+   String
+   Boolean
+   null   standalone value  it is object
+   undefined is use to not get any value
+   symbol=>use for unique
+   typeof is use for find out the data type of any thing
+   */
+  console.log(typeof age);
