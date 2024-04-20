@@ -1,0 +1,6 @@
+let score="33";
+let numberinstring=Number(score);
+let numberinboolean= Boolean(score);
+console.log("1"+2+2)//122
+
+console.log(1+2+"2")//32
